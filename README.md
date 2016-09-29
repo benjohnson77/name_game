@@ -8,3 +8,4 @@ This is an activity for DevOps Live Meetup to allow experienced and non experien
 4.Verify that you pull request can be merged.
 
 ## NAME LIST
+- John Paul Herold [dailyherold](https://github.com/dailyherold)
