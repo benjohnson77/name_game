@@ -11,3 +11,4 @@ This is an activity for DevOps Live Meetup to allow experienced and non experien
 
 ## NAME LIST
 Cory Claflin
+John Paul Herold [dailyherold](https://github.com/dailyherold)
