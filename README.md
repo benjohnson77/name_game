@@ -1,5 +1,7 @@
 # name_game
 
+Morgan Nelson
+
 This is an activity for DevOps Live Meetup to allow experienced and non experience members to play with a repo for the purpose of talking about and using git.
 
 1.Fork the this repo
@@ -10,3 +12,6 @@ This is an activity for DevOps Live Meetup to allow experienced and non experien
 ## NAME LIST
 
 * Miguel Pereira
+Cory Claflin
+John Paul Herold [dailyherold](https://github.com/dailyherold)  
+Jay Ram [brickpattern]
