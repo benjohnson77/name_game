@@ -12,7 +12,7 @@ This is an activity for DevOps Live Meetup to allow experienced and non experien
 ## NAME LIST
 
 * Miguel Pereira
-Cory Claflin
-John Paul Herold [dailyherold](https://github.com/dailyherold)  
-Jay Ram [brickpattern]
-Jordan Bach [Open Solitude](https://opensolitude.com)
+* Cory Claflin
+* John Paul Herold [dailyherold](https://github.com/dailyherold)  
+* Jay Ram [brickpattern]
+* Jordan Bach [Open Solitude](https://opensolitude.com)
